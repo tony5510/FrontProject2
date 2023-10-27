@@ -1,3 +1,3 @@
 # FrontProject2
 Drap and Drop me
-Hi there! To check the result just go to the 
+Hi there! To see the result just go here https://tony5510.github.io/FrontProject2/
